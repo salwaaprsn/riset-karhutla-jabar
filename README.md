@@ -29,11 +29,11 @@ riset-karhutla-jabar/
 ├── 2_data_olahan/
 │   
 ├── 3_data_pendukung/
-││
+│
 ├── 4_hasil_analisis/
 │   
 ├── 5_kode/
-│   
+  
 ```
 
 **Keterangan direktori:**
