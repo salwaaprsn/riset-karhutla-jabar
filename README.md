@@ -22,23 +22,18 @@ Repository ini berisi dataset, data pendukung, hasil analisis, dan kode pemrogra
 Repository ini disusun ke dalam beberapa direktori untuk memisahkan data berdasarkan tahapan dan fungsinya.
 
 ```text
-riset-karhutla-jawa-barat/
+riset-karhutla-jabar/
 │
 ├── 1_data_mentah/
-│   └── Data asli dari NASA FIRMS
-│
+│   
 ├── 2_data_olahan/
-│   └── Data hotspot Jawa Barat yang telah diproses
-│
+│   
 ├── 3_data_pendukung/
-│   ├── Batas wilayah Jawa Barat (GADM)
-│   └── Dokumentasi resmi FIRMS
-│
+││
 ├── 4_hasil_analisis/
-│   └── Keluaran hasil analisis penelitian
-│
+│   
 ├── 5_kode/
-│   └── Notebook Google Colab
+│   
 ```
 
 **Keterangan direktori:**
