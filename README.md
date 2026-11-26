@@ -1,13 +1,8 @@
-# 🔥 Data dan Kode Pendukung Riset
+# Data Pendukung 
 
 ### Pengembangan Sistem Informasi Pemantauan Titik Panas Karhutla di Jawa Barat Berbasis Web dengan *Isolation Forest* untuk Deteksi Anomali *Spatio-Temporal*
 
 Repository ini berisi data penelitian, hasil analisis, serta kode program yang digunakan dalam penelitian deteksi anomali titik panas (*hotspot*) kebakaran hutan dan lahan (karhutla) di wilayah Jawa Barat periode 2020–2025.
-
-**Peneliti:** Salwa Aprilia Santi
-**NIM:** 20230040141
-**Program Studi:** Teknik Informatika  
-**Universitas:** Universitas Nusa Putra
 
 ---
 
