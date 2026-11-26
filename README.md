@@ -1,4 +1,4 @@
-# Data Pendukung 
+# Data dan Kode Pendukung Riset
 
 ### Pengembangan Sistem Informasi Pemantauan Titik Panas Karhutla di Jawa Barat Berbasis Web dengan *Isolation Forest* untuk Deteksi Anomali *Spatio-Temporal*
 
@@ -157,3 +157,9 @@ Penelitian ini memiliki beberapa keterbatasan yang perlu diperhatikan dalam meng
 6. Penghapusan data duplikat menggunakan pembulatan koordinat, bukan perhitungan jarak geografis.
 
 ---
+
+## 📩 9. Kontak
+
+Peneliti: Salwa Aprilia Santi
+
+Email: salwa.aprilia_ti23@nusaputra.ac.id
