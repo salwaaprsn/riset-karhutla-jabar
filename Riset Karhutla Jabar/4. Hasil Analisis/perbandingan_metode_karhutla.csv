@@ -1,0 +1,5 @@
+metode,jumlah_anomali,%_anomali_Agu_Okt,overlap_dengan_IF_%
+IsolationForest,685,73.9,100.0
+Persentil95_count7d,586,93.0,21.2
+Zscore_per_sel_>2,650,83.1,10.0
+LOF,685,70.8,21.7
